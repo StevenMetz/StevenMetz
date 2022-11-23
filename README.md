@@ -1,4 +1,5 @@
-### Hi there 👋
+About Me! 
+Hi, my name is Steven! Software Engineering has always interested me but I didn't have the means to go to school and learn traditionally, so I went into construction. I was a Foreman framing new construction homes but due to the nature of the work it started to take a toll on my body and I decided that it was time to make a switch. I am now attending a bootcamp called Actualize where I am learning the basics of coding and what it means to be a Software Engineer. I am looking forward to making an impact in the world by helping create meaningful software.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenmetz)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **StevenMetz/StevenMetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
