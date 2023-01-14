@@ -1,6 +1,6 @@
 About Me! 
 
-Hi, my name is Steven! Software Engineering has always interested me but I didn't have the means to go to school and learn traditionally, so I went into construction. I was a Foreman framing new construction homes but due to the nature of the work it started to take a toll on my body and I decided that it was time to make a switch. I am now attending a bootcamp called Actualize where I am learning the basics of coding and what it means to be a Software Engineer. I am looking forward to making an impact in the world by helping create meaningful software.
+Hi, my name is Steven! I started my career as a carpenter framing new construction homes. While building homes you are given a blueprint of what the homeowner wants. From there I got to use my creative side to come up with a system to build the end result the homeowners were looking for. I chose to pivot and become a Software Engineer because I will get to use the same skills I used to build homes but with a keyboard instead of a hammer. I am looking forward to making an impact in the world by helping create meaningful software.
 
 
 
