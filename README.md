@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React and Ruby on Rails**
 
-- ⚡ Fun fact **Not all Masons work with concrete**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/steven-metz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stevenmetz" height="30" width="40" /></a>
