@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Computer Science, Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [stevenmetz.netlify.app](http://stevenmetz.netlify.app)
+- 👨‍💻 All of my projects are available at [Personal Website](http://stevenmetz.netlify.app) or [Personal Reposoitories](https://github.com/StevenMetz?tab=repositories)
 
 - 💬 Ask me about **React and Ruby on Rails**
 
