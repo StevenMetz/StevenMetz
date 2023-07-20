@@ -3,7 +3,7 @@
 <p> I started my career as a carpenter framing new construction homes. While building homes you are given a blueprint of what the homeowner wants. From there I got to use my creative side to come up with a system to build the end result the homeowners were looking for. I chose to pivot and become a Software Engineer because I will get to use the same skills I used to build homes but with a keyboard instead of a hammer. I am looking forward to making an impact in the world by helping create meaningful software.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenmetz&label=Profile%20views&color=0e75b6&style=flat" alt="stevenmetz" /> </p>
 
-- 🔭 I’m currently working on building react native apps and contributing to Gitlab Comunity!
+- 🔭 I’m currently working on building React Native Apps and contributing to Gitlab Comunity!
 
 - 🌱 I’m currently learning **ReactJS, Computer Science, Ruby on Rails**
 
