@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">A Full-Stack Software Engineer from Wisconsin</h3>
-<p> I started my career as a carpenter framing new construction homes. While building homes you are given a blueprint of what the homeowner wants. From there I got to use my creative side to come up with a system to build the end result the homeowners were looking for. I chose to pivot and become a Software Engineer because I will get to use the same skills I used to build homes but with a keyboard instead of a hammer. I am looking forward to making an impact in the world by helping create meaningful software.</p>
+<p>Software Engineer with a passion for crafting efficient, user-friendly solutions. Experienced in JavaScript, Ruby on Rails, React, and more. Currently enhancing customer experiences as a Software Support Engineer at Rebuy, blending technical expertise with strong communication skills to solve complex problems. An active open-source contributor and mentor, dedicated to continuous learning and sharing knowledge within the tech community. Committed to delivering high-quality code and exceptional user experiences in every project.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenmetz&label=Profile%20views&color=0e75b6&style=flat" alt="stevenmetz" /> </p>
 
 - 🔭 I’m currently working on building React Native Apps and contributing to Gitlab Comunity!
