@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on building React Native Apps and contributing to Gitlab Comunity!
 
-- 🌱 I’m currently learning **Typescript, Computer Science, Ruby on Rails**
+- 🌱 I’m currently learning **Typescript, Computer Science**
 
 - 👨‍💻 All of my projects are available at [Personal Website](http://stevenmetz.netlify.app) or [Personal Reposoitories](https://github.com/StevenMetz?tab=repositories)
 
