@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">A Software Engineer from Wisconsin</h3>
-<p>Software Engineer with a passion for crafting efficient, user-friendly solutions. Experienced in JavaScript, Ruby on Rails, React, and more. Currently enhancing customer experiences as a Software Support Engineer at Rebuy, blending technical expertise with strong communication skills to solve complex problems. An active open-source contributor and mentor, dedicated to continuous learning and sharing knowledge within the tech community. Committed to delivering high-quality code and exceptional user experiences in every project.</p>
+<p>👋 Hey there! I’m a Software Engineer who once built houses and now builds sleek, scalable apps (still using a toolbox, just different tools).
+
+Currently at Rebuy as a Launch Engineer, helping Shopify merchants level up their e-commerce game with custom Vue.js components, smooth UX, and a sprinkle of JavaScript magic. Formerly in Support, where I juggled 20 customers a day and made bugs disappear (98% satisfaction, baby 🎯).
+
+⚙️ Tech-wise: React Native, React, Vue, TypeScript, JavaScript, Ruby on Rails, PostgreSQL, and a handful of other acronyms that make code dance.
+
+📦 I contribute to open-source (hi GitLab 👋), mentor up-and-coming devs at Actualize, and build side projects like apps for plant-sitting, mortgage-math-ing, and streamlining construction sites.
+
+Big fan of clean code, lifelong learning, and helping people get stuff done. Whether I’m writing docs, fixing bugs, or launching new features—I’m here to build things that work and work well.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenmetz&label=Profile%20views&color=0e75b6&style=flat" alt="stevenmetz" /> </p>
 
 - 🔭 I’m currently working on building React Native Apps and contributing to Gitlab Comunity!
