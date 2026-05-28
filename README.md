@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from Wisconsin</h3>
 <p>👋 Hey there! I’m a Software Engineer who once built houses and now builds sleek, scalable apps (still using a toolbox, just different tools).
 
-Currently at Rebuy as a Launch Engineer, helping Shopify merchants level up their e-commerce game with custom Vue.js components, smooth UX, and a sprinkle of JavaScript magic. Formerly in Support, where I juggled 20 customers a day and made bugs disappear (98% satisfaction, baby 🎯).
+Currently at Rebuy as a Implementation Engineer, helping Shopify merchants level up their e-commerce game with custom Vue.js components, smooth UX, and a sprinkle of JavaScript magic. Formerly in Support, where I juggled 20 customers a day and made bugs disappear (98% satisfaction, baby 🎯).
 
 ⚙️ Tech-wise: React Native, React, Vue, TypeScript, JavaScript, Ruby on Rails, PostgreSQL, and a handful of other acronyms that make code dance.
 
